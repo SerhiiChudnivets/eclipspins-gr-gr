@@ -5,7 +5,7 @@
   "url": "eclipspins-gr.gr",
   "template": "tupchiy",
   "language_code": "el",
-  "allow_indexing": false,
+  "allow_indexing": true,
   "redirect_404s_to_homepage": true,
   "use_www_version": false,
   "breadcrumbs": true,
@@ -373,8 +373,8 @@
       "question": "Πώς μπορώ να προστατεύσω τον λογαριασμό μου στο EclipSpins Casino;"
     }
   ],
-  "_generated_at": "2026-10-14T08:14:21.484Z",
+  "_generated_at": "2026-10-14T08:17:23.490Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-10-14T08:14:23.213Z",
-  "_deploy_trigger": "epm867"
+  "_last_deploy": "2026-10-14T08:17:25.101Z",
+  "_deploy_trigger": "b58ahs"
 }
